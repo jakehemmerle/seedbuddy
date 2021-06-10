@@ -1,0 +1,19 @@
+{
+  "name": "seedbuddy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jake Hemmerle <jakehemmerle@protonmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "@polkadot/api": "^4.11.2",
+    "@polkadot/util-crypto": "^6.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.3"
+  }
+}
